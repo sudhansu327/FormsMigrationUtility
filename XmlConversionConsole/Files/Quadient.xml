@@ -1,0 +1,614 @@
+<Layout>
+  <Variable>
+    <Id>0</Id>
+    <Name>PageCounter</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>0</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>1</Id>
+    <Name>Overflow</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>1</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>2</Id>
+    <Name>JobName</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>2</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>3</Id>
+    <Name>PageIndex</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>3</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>4</Id>
+    <Name>PreviousPageIndex</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>4</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>5</Id>
+    <Name>PageName</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>5</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>6</Id>
+    <Name>PreviousPageName</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>6</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>7</Id>
+    <Name>RecordIndex</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>7</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>8</Id>
+    <Name>PagesPerRecord</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>8</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>9</Id>
+    <Name>GlobalPageCounter</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>9</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>10</Id>
+    <Name>PageArrayIndex</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>10</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>11</Id>
+    <Name>GlobalSheetCounter</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>11</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>12</Id>
+    <Name>GlobalSheetCount</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>12</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>13</Id>
+    <Name>GlobalPageCount</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>13</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>14</Id>
+    <Name>JobStarted</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>14</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>15</Id>
+    <Name>True</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>15</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>16</Id>
+    <Name>PagesPerSubRecord</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>16</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>17</Id>
+    <Name>PageSubCounter</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>17</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>18</Id>
+    <Name>GroupSheetCounter</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>18</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>19</Id>
+    <Name>PrintingFace</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>19</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>20</Id>
+    <Name>GroupIndex</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>20</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>21</Id>
+    <Name>SerieIndex</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>21</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>22</Id>
+    <Name>ValueIndex</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>22</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>23</Id>
+    <Name>Language</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>23</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>24</Id>
+    <Name>GroupSheetCount</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>24</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>25</Id>
+    <Name>Skin</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>25</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>26</Id>
+    <Name>RealGroupSheetCounter</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>26</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>27</Id>
+    <Name>RealGroupSheetCount</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>27</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>28</Id>
+    <Name>DirectExternalFlowLocation</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>28</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Variable>
+    <Id>29</Id>
+    <Name>DirectExternalFlowCustomProperty</Name>
+    <Comment />
+    <ParentId>Def.SystemVariables</ParentId>
+    <IndexInParent>29</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Variable>
+  <Page>
+    <Id>30</Id>
+    <Name>Form Template 1</Name>
+    <Comment />
+    <ParentId>Def.Pages</ParentId>
+    <IndexInParent>0</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Page>
+  <PathObject>
+    <Id>31</Id>
+    <Name>Shape 1</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>0</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>32</Id>
+    <Name>Shape 2</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>1</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>33</Id>
+    <Name>Shape 3</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>2</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>34</Id>
+    <Name>Shape 4</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>3</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>35</Id>
+    <Name>Shape 5</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>4</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>36</Id>
+    <Name>Shape 6</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>5</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>37</Id>
+    <Name>Shape 7</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>6</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>38</Id>
+    <Name>Shape 8</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>7</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>39</Id>
+    <Name>Shape 9</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>8</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>40</Id>
+    <Name>Shape 10</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>9</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>41</Id>
+    <Name>Shape 11</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>10</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>42</Id>
+    <Name>Shape 12</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>11</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>43</Id>
+    <Name>Shape 13</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>12</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>44</Id>
+    <Name>Shape 14</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>13</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>45</Id>
+    <Name>Shape 15</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>14</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>46</Id>
+    <Name>Shape 16</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>15</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>47</Id>
+    <Name>Shape 17</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>16</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>48</Id>
+    <Name>Shape 18</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>17</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>49</Id>
+    <Name>Shape 19</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>18</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>50</Id>
+    <Name>Shape 20</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>19</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>51</Id>
+    <Name>Shape 21</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>20</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>52</Id>
+    <Name>Shape 22</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>21</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>53</Id>
+    <Name>Shape 23</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>22</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>54</Id>
+    <Name>Shape 24</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>23</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>55</Id>
+    <Name>Shape 25</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>24</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>56</Id>
+    <Name>Shape 26</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>25</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>57</Id>
+    <Name>Shape 27</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>26</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>58</Id>
+    <Name>Shape 28</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>27</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>59</Id>
+    <Name>Shape 29</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>28</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>60</Id>
+    <Name>Shape 30</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>29</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>61</Id>
+    <Name>Shape 31</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>30</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>62</Id>
+    <Name>Shape 32</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>31</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <PathObject>
+    <Id>63</Id>
+    <Name>Shape 33</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>32</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </PathObject>
+  <FlowArea>
+    <Id>64</Id>
+    <Name>FlowArea 1</Name>
+    <Comment />
+    <ParentId>30</ParentId>
+    <IndexInParent>33</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </FlowArea>
+  <Flow>
+    <Id>65</Id>
+    <Name>Flow 1</Name>
+    <Comment />
+    <ParentId>Def.FlowGroup</ParentId>
+    <IndexInParent>0</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </Flow>
+  <ParaStyle>
+    <Id>66</Id>
+    <Name>Normal 1</Name>
+    <Comment />
+    <ParentId>Def.ParaStyleGroup</ParentId>
+    <IndexInParent>1</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </ParaStyle>
+  <ParaStyle>
+    <Id>67</Id>
+    <Name>Normal 2</Name>
+    <Comment />
+    <ParentId>Def.ParaStyleGroup</ParentId>
+    <IndexInParent>2</IndexInParent>
+    <SecurityDescriptorId>-1</SecurityDescriptorId>
+    <Forward />
+  </ParaStyle>
+</Layout>

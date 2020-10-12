@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Form Template",
+    "location": {
+      "x": 8,
+      "y": 4.6666669845581055,
+      "width": 172.5104217529297,
+      "height": 42.66666793823242,
+      "top": 4.6666669845581055,
+      "right": 180.5104217529297,
+      "bottom": 47.33333492279053,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "\"Calibri Light\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "34.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "This is demo text to see if XML import works",
+    "location": {
+      "x": 8,
+      "y": 54,
+      "width": 1236.8646240234375,
+      "height": 18,
+      "top": 54,
+      "right": 1244.8646240234375,
+      "bottom": 72,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgb(255, 255, 0)"
+    },
+    "metaSyles": {
+      "justify": "center",
+      "fontFamily": "Albany AMT",
+      "fontSize": "12pt",
+      "fontWeight": "Bold",
+      "letterCasing": "Capital"
+    }
+  }  
+]
