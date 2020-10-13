@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sudhansudash/Desktop/FormPOC/JsonToQuadientXmlConversion/XmlConversionConsole/XmlConversionConsole.csproj": {}
+    "/Users/sudhansudash/Desktop/FormPOC/git/FormsMigrationUtility/XmlConversionConsole/XmlConversionConsole.csproj": {}
   },
   "projects": {
-    "/Users/sudhansudash/Desktop/FormPOC/JsonToQuadientXmlConversion/XmlConversionConsole/XmlConversionConsole.csproj": {
+    "/Users/sudhansudash/Desktop/FormPOC/git/FormsMigrationUtility/XmlConversionConsole/XmlConversionConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sudhansudash/Desktop/FormPOC/JsonToQuadientXmlConversion/XmlConversionConsole/XmlConversionConsole.csproj",
+        "projectUniqueName": "/Users/sudhansudash/Desktop/FormPOC/git/FormsMigrationUtility/XmlConversionConsole/XmlConversionConsole.csproj",
         "projectName": "XmlConversionConsole",
-        "projectPath": "/Users/sudhansudash/Desktop/FormPOC/JsonToQuadientXmlConversion/XmlConversionConsole/XmlConversionConsole.csproj",
+        "projectPath": "/Users/sudhansudash/Desktop/FormPOC/git/FormsMigrationUtility/XmlConversionConsole/XmlConversionConsole.csproj",
         "packagesPath": "/Users/sudhansudash/.nuget/packages/",
-        "outputPath": "/Users/sudhansudash/Desktop/FormPOC/JsonToQuadientXmlConversion/XmlConversionConsole/obj/",
+        "outputPath": "/Users/sudhansudash/Desktop/FormPOC/git/FormsMigrationUtility/XmlConversionConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sudhansudash/.config/NuGet/NuGet.Config"

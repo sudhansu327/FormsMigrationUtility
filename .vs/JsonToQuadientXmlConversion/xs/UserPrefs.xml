@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{20FABF34-9B20-4B31-8697-EB24FF2E877D}|Default">
+  <MonoDevelop.Ide.ItemProperties.XmlConversionConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XmlConversionConsole/Program.cs">
+    <Files>
+      <File FileName="XmlConversionConsole/appsettings.json" Line="2" Column="17" />
+      <File FileName="XmlConversionConsole/Program.cs" Line="5" Column="1" />
+      <File FileName="XmlConversionConsole/Files/CoreTemplate.xml" Line="587" Column="8" />
+      <File FileName="XmlConversionConsole/Constants.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JsonToQuadientXmlConversion" expanded="True">
+            <Node name="XmlConversionConsole" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Files" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
