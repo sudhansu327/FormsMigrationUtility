@@ -1,11 +1,15 @@
 ﻿<Properties StartupConfiguration="{20FABF34-9B20-4B31-8697-EB24FF2E877D}|Default">
   <MonoDevelop.Ide.ItemProperties.XmlConversionConsole PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XmlConversionConsole/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XmlConversionConsole/Files/CoreTemplate.xml">
     <Files>
-      <File FileName="XmlConversionConsole/appsettings.json" Line="2" Column="17" />
-      <File FileName="XmlConversionConsole/Program.cs" Line="5" Column="1" />
+      <File FileName="XmlConversionConsole/appsettings.json" Line="16" Column="1" />
       <File FileName="XmlConversionConsole/Files/CoreTemplate.xml" Line="587" Column="8" />
-      <File FileName="XmlConversionConsole/Constants.cs" Line="14" Column="1" />
+      <File FileName="XmlConversionConsole/Constants.cs" Line="146" Column="19" />
+      <File FileName="XmlConversionConsole/Files/Quadient.xml" Line="662" Column="34" />
+      <File FileName="XmlConversionConsole/Files/FormTemplate.xml" Line="901" Column="3" />
+      <File FileName="XmlConversionConsole/Files/Documaker.json" Line="22" Column="40" />
+      <File FileName="XmlConversionConsole/Program.cs" Line="68" Column="1" />
+      <File FileName="XmlConversionConsole/Files/StaticContents.xml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,8 +19,9 @@
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Files" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+              <Node name="Files" expanded="True">
+                <Node name="CoreTemplate.xml" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

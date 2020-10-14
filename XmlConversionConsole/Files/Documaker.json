@@ -12,12 +12,12 @@
       "left": 8
     },
     "styles": {
-      "fontFamily": "\"Calibri Light\", sans-serif",
+      "fontFamily":"Calibri",
       "fontWeight": "700",
       "fontSize": "34.6667px",
       "backgroundColor": "rgba(0, 0, 0, 0)"
     }
-  },
+  },        
   {
     "text": "This is demo text to see if XML import works",
     "location": {

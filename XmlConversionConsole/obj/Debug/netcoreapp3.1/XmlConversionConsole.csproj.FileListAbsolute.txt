@@ -45,3 +45,4 @@
 /Users/sudhansudash/Desktop/FormPOC/git/FormsMigrationUtility/XmlConversionConsole/obj/Debug/netcoreapp3.1/XmlConversionConsole.dll
 /Users/sudhansudash/Desktop/FormPOC/git/FormsMigrationUtility/XmlConversionConsole/obj/Debug/netcoreapp3.1/XmlConversionConsole.pdb
 /Users/sudhansudash/Desktop/FormPOC/git/FormsMigrationUtility/XmlConversionConsole/obj/Debug/netcoreapp3.1/XmlConversionConsole.genruntimeconfig.cache
+/Users/sudhansudash/Desktop/FormPOC/git/FormsMigrationUtility/XmlConversionConsole/obj/Debug/netcoreapp3.1/XmlConversionConsole.csprojAssemblyReference.cache
