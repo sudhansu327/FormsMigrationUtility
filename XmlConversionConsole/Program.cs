@@ -93,11 +93,24 @@ namespace XmlConversionConsole
                 var textStyleIds = from data in xDocOutput.Descendants("TextStyle") select data.Element("Id").Value;
                 for (var i = 0; i < objectCount; i++)
                 {                    
-                    string para = @$"<P Id='{paraStyleIds.ToArray()[1]}'><T xml:space='preserve' Id='{textStyleIds.ToArray()[i]}'>{inputJtoken[i].SelectToken("text")}</T></P>";
+                    string para = @$"<P Id='{paraStyleIds.ToArray()[i]}'><T xml:space='preserve' Id='{textStyleIds.ToArray()[i]}'>{inputJtoken[i].SelectToken("text")}</T></P>";
                     xElementFlowContent.Add(XElement.Parse(para));
                     var rgbString = inputJtoken[i].SelectToken("styles").SelectToken("backgroundColor").ToString();
                 }
                 xDocOutput.Root.Add(xElementFlow);
+
+                //ParaStyle Defination
+                var paraGrpStaticElmnt= XElement.Parse(@"<Group><Id Name='InvisibleParaStyles'>Def.InvisibleParaStyleGroup</Id></Group>");
+                xDocOutput.Root.Add(paraGrpStaticElmnt);
+                var paraStyleDefinationDefaultElmnt = Constants.GetParaStyleDefination();
+                xDocOutput.Root.Add(XElement.Parse(paraStyleDefinationDefaultElmnt));
+                for (var i = 0; i < objectCount; i++)
+                {
+                    var paraStyleDefination= Constants.GetParaStyleDefination(paraStyleIds.ToArray()[i]);
+                    xDocOutput.Root.Add(XElement.Parse(paraStyleDefination));
+                }
+
+
                 xDocOutput.Save(fileDirectory+configuration.GetSection("OutputXmlFilePath").Value);
                 //Console.WriteLine($"Output XML - {xDocOutput.ToString()}");
                 Console.WriteLine("Finished Quadient XML formation successfully.");
