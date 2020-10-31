@@ -1,40 +1,34 @@
 ﻿<Properties StartupConfiguration="{20FABF34-9B20-4B31-8697-EB24FF2E877D}|Default">
   <MonoDevelop.Ide.ItemProperties.XmlConversionConsole PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XmlConversionConsole/Files/Quadient.xml">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="XmlConversionConsole/appsettings.json" Line="6" Column="20" />
-      <File FileName="XmlConversionConsole/Files/CoreTemplate.xml" />
-      <File FileName="XmlConversionConsole/Constants.cs" />
-      <File FileName="XmlConversionConsole/Files/Quadient.xml" Line="2001" Column="31" />
-      <File FileName="XmlConversionConsole/Files/FormTemplate.xml" />
-      <File FileName="XmlConversionConsole/Files/Documaker.json" />
-      <File FileName="XmlConversionConsole/Program.cs" />
-      <File FileName="XmlConversionConsole/Files/StaticContents.xml" />
+      <File FileName="XmlConversionConsole/appsettings.json" Line="16" Column="2" />
+      <File FileName="XmlConversionConsole/Files/StaticContents.xml" Line="2534" Column="16" />
+      <File FileName="XmlConversionConsole/Files/Quadient.xml" Line="17" Column="37" />
+      <File FileName="XmlConversionConsole/Files/CoreTemplate.xml" Line="555" Column="27" />
+      <File FileName="XmlConversionConsole/Files/Documaker.json" Line="24" Column="14" />
+      <File FileName="XmlConversionConsole/Files/FormTemplate.xml" Line="3242" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="JsonToQuadientXmlConversion" expanded="True">
             <Node name="XmlConversionConsole" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="Files" expanded="True">
-                <Node name="Quadient.xml" selected="True" />
-              </Node>
+              <Node name="Files" expanded="True" />
+              <Node name="Constants.cs" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/sudhansudash/Desktop/FormPOC/git/FormsMigrationUtility/XmlConversionConsole/Program.cs" relfile="XmlConversionConsole/Program.cs" line="96" column="3" />
-      <Breakpoint file="/Users/sudhansudash/Desktop/FormPOC/git/FormsMigrationUtility/XmlConversionConsole/Program.cs" relfile="XmlConversionConsole/Program.cs" line="106" column="2" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
